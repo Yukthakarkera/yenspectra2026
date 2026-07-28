@@ -34,6 +34,10 @@ A responsive event registration website developed for **YEN SPECTRA 2026**, orga
 
 <img width="1891" height="900" alt="image" src="https://github.com/user-attachments/assets/17fa87b6-6c5e-4ea2-b53b-0a0c957d2c6c" />
 <img width="1856" height="903" alt="image" src="https://github.com/user-attachments/assets/07daa3e5-07c5-47c7-acf9-64e116fa38f1" />
+<img width="886" height="817" alt="image" src="https://github.com/user-attachments/assets/09e6b3bc-1514-418a-9f14-7ef5621c1be3" />
+<img width="907" height="760" alt="image" src="https://github.com/user-attachments/assets/12fc9fe8-f5db-401f-b354-dafedc697069" />
+
+
 
 
 
